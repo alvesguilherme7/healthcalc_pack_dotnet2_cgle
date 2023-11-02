@@ -1,0 +1,11 @@
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\bin\Debug\net7.0\healthcalc-pack-dotnet.deps.json
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\bin\Debug\net7.0\healthcalc-pack-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\bin\Debug\net7.0\healthcalc-pack-dotnet.pdb
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.AssemblyInfoInputs.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.AssemblyInfo.cs
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.csproj.CoreCompileInputs.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\refint\healthcalc-pack-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\healthcalc-pack-dotnet.pdb
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-pack-dotnet\obj\Debug\net7.0\ref\healthcalc-pack-dotnet.dll

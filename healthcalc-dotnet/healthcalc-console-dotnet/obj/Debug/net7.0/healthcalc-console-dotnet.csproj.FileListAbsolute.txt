@@ -1,0 +1,17 @@
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-console-dotnet.exe
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-console-dotnet.deps.json
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-console-dotnet.runtimeconfig.json
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-console-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-console-dotnet.pdb
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\bin\Debug\net7.0\healthcalc-pack-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.csproj.AssemblyReference.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.AssemblyInfoInputs.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.AssemblyInfo.cs
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.csproj.CoreCompileInputs.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.csproj.CopyComplete
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\refint\healthcalc-console-dotnet.dll
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.pdb
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\healthcalc-console-dotnet.genruntimeconfig.cache
+G:\healthcalc-dotnet-main\healthcalc-dotnet\healthcalc-console-dotnet\obj\Debug\net7.0\ref\healthcalc-console-dotnet.dll

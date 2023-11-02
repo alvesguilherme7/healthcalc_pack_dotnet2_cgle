@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwnNBOe0wE37O6as+beSSyeV7B+0TL19E+1l/NuM7fzJnkQee9RjZc+7aqQDL7Xc+kdPEbTLTELmhzq6mHbLLw==",
+  "success": true,
+  "projectFilePath": "G:\\healthcalc-dotnet-main\\healthcalc-dotnet\\healthcalc-console-dotnet\\healthcalc-console-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\healthcalc-pack-dotnet\\1.0.0\\healthcalc-pack-dotnet.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
