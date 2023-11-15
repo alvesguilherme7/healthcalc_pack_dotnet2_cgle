@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>healthcalc_pack_dotnet2_cgle</PackageId>
+    <RootNamespace>healthcalc_pack_dotnet2_cgle</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Gestor de Nutrientes</Title>
+    <Authors>Cláudia, Guilherme, Lucas e Eduardo.</Authors>
+    <PackageIcon>icone.png</PackageIcon>
+    <Version>1.7.0</Version>
+    <Description>Trabalho de projetos integrados. POC calculadora de macronutrientes e IMC.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\assets\icone.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
